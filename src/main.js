@@ -14,7 +14,7 @@ searchForm.addEventListener("submit", function (event) {
     const searchQuery = document.querySelector(".search-query").value;
     searchImages(searchQuery);
 });
-
+qqq
 function searchImages(query) {
     loader.style.display = "flex";
 
